@@ -1,5 +1,6 @@
 {
-  "name": "供应链牛鞭效应仿真",
-  "description": "一个交互式的供应链仿真演示（啤酒游戏），展示需求放大效应（牛鞭效应）。包含零售商、生产商和供应商的角色模拟。",
-  "requestFramePermissions": []
+  "name": "牛鞭效应实验室 (Bullwhip Lab)",
+  "description": "全景式供应链牛鞭效应仿真、代数建模、级联沙盒、系统动力学与AI决策实验室",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
